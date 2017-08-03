@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+8-3-17
 
 ### Student Name:  
-(First and Last Name)
+Ryan Lindner
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learn about API's and how they can be useful in designing an application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ryanlindner.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned about AJAX and how it can allow us to access information without having to reload the webpage.
+2. We learned about JSON and how it is a useful format for storing information
+3. We learned about using an API to access lots of movie information from an outside database source.
